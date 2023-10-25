@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475305739601",
+    "project_id": "tigers-43c5c",
+    "storage_bucket": "tigers-43c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475305739601:android:151337ca1825c56cd1bf70",
+        "android_client_info": {
+          "package_name": "mgd.app.ts.roaringtigerseven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimZxoWbUiXeJzPJ4klcexDh0_1aaJxdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
